@@ -66,7 +66,7 @@ if (maintask.length>0) {
          </div>
 
       </h1>
-      <div id="mennu" className="   text-white h-lvh flex w-20 ml-2 fixed justify-center items-center  ">
+      <div id="mennu" className="   text-white h-lvh flex w-20 ml-1 fixed justify-center items-center  ">
                <div
   class="flex flex-col justify-center items-center relative transition-all duration-[450ms] ease-in-out w-12  "
 >
@@ -187,12 +187,12 @@ if (maintask.length>0) {
     <img src="https://api-direct.urlbox.io/v1/WfUj6ANhfPvBM4jD/png?url=https%3A%2F%2Fhotpot.ai%2Fdesign%2FnakedView%3Fid%3Dxr4g4mkZMMDy_1584_396%26scale%3D0.5&renderer=new&selector=%23designBox&transparent=true&download=xr4g4mkZMMDy_1584_396.png&retina=true" className=" object-contain  " />
 
     </div>
-    <div id="page1" className="  flex-col item-center  ml-24 flex m-3 w-5/6  text-whitw h-64">
-        <h1 className=" flex text-white opacity-1 font-serif justify-center item-center text-4xl mt-12 ">Let's Grow up Togather</h1>
-        <p className="flex ml-32 mt-4 text-xl items-center text-stone-400 text-center justify-center font-mono w-4/6">Innovation's realm, we dare to explore,
-Together in stride, we'll venture and soar.
-With fervor ablaze, and minds set free,
-In the realm of creation, work with me.</p>
+    <div id="page1" className="  flex-col item-center  justify-center flex    text-whitw h-64">
+        <h1 className=" flex text-white opacity-1 font-serif justify-center item-center text-4xl mt-6 ">Let's Grow up Togather</h1>
+        <p className="flex  mt-4 text-xl items-center text-stone-400 text-center justify-center font-mono ">Innovation's realm, we dare to explore,
+Together in stride,<br/> we'll venture and soar.
+With fervor ablaze, and minds set free
+In the ,<br/>realm of creation, work with me.</p>
   </div>
   <div className=" justify-center items-center flex">
   <button
